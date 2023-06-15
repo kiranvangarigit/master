@@ -1,0 +1,22 @@
+@Autowired
+@RequestBody
+@RequestParam
+@RequestController
+@RequestMapping --  universal for get post put del patch
+@RequestPost
+@Requestput
+@Requestget
+@PathVariable
+@Service
+@Repository
+@Entity-@Id   @column       @Table
+
+
+
+Class Level Annotations
+
+
+Method Level Annotations
+
+
+Field Level Annotations
